@@ -1,0 +1,10 @@
+.white{
+    fill: white;
+}
+.primary{
+    fill: var(--vt-c-blue);
+}
+.stroke{
+    stroke: var(--vt-c-blue);
+    fill: none;
+}

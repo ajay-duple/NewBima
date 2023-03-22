@@ -1,0 +1,500 @@
+@media only screen and (max-width: 1650px) {
+  .bloglistCategory .polyBox.title16 {
+    font-size: 14px;
+  }
+}
+
+body .mainMenu.navbar .navbar-nav li a {
+  font-size: 15px;
+
+}
+
+@media only screen and (max-width: 1450px) {
+  body .mainMenu.navbar .navbar-brand img {
+    max-width: 240px;
+  }
+
+  body .mainMenu.navbar .navbar-nav li a {
+    font-size: 14px;
+    padding: 0 15px;
+  }
+
+  body .mainMenu.navbar a.btnCommon {
+    font-size: 14px;
+    padding: 12px 20px;
+  }
+
+  .getStarted-right {
+    padding: 50px 60px;
+  }
+
+  .mega-menu .mega-menuBox {
+    height: 70vh;
+  }
+
+  .polyBox {
+    padding: 7px 18px;
+  }
+
+  .companyReview-img {
+    min-height: 110px;
+  }
+
+  /****** font Style ********/
+  .title64 {
+    font-size: 58px;
+    line-height: 70px;
+  }
+
+  .title60 {
+    font-size: 54px;
+    line-height: 70px;
+  }
+
+  .title48 {
+    font-size: 44px;
+    line-height: 54px;
+  }
+
+  .title32 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+
+  .title30 {
+    font-size: 26px;
+    line-height: 38px;
+
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+
+  body .mainMenu.navbar ul.navbar-nav li a {
+    padding: 15px;
+  }
+
+  body .howDo .commnHeading p {
+    max-width: 90%;
+  }
+
+  .mainMenu.navbar .navbar-collapse {
+    height: 0;
+  }
+
+  .mainMenu.navbar .navbar-collapse.menuActive {
+    display: block !important;
+    height: auto;
+    transition: 2s ease-in-out;
+  }
+}
+
+@media only screen and (max-width: 992px) {}
+
+@media only screen and (max-width: 575px) {
+  .w-xs-100 {
+    width: 100% !important;
+  }
+
+  .navbar-main.bg-yellowLight {
+    background-color: transparent;
+    padding-top: 0;
+  }
+
+  .mainMenu.navbar .nabbarStrip {
+    padding: 0 40px;
+  }
+
+  .menu-trigger img {
+    display: none;
+  }
+
+  .mega-menu {
+    display: none;
+  }
+
+  .container {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .homeBannerContainer {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  body .mainMenu.navbar {
+    text-align: center;
+  }
+
+  body .mainMenu.navbar a.btnCommon {
+    justify-content: center;
+  }
+
+  body .mainMenu.navbar .navbar-brand {
+    line-height: 0;
+  }
+
+  body .mainMenu.navbar .navbar-brand img {
+    max-width: 200px;
+  }
+
+  /****** font Style ********/
+  .title64,
+  .title60 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  /* .title60{
+        font-size: 54px;
+        line-height: 70px;
+      } */
+  .title48 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+
+  .title32 {
+    font-size: 24px;
+    line-height: 36px;
+  }
+
+  .title30 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+
+  .title24 {
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  .title20 {
+    font-size: 18px;
+    line-height: 26px;
+  }
+
+  .title16 {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .btnCommon {
+    font-size: 16px;
+    padding: 14px 18px;
+  }
+
+  .trusted-business .swiper-button-next,
+  .trusted-business .swiper-button-prev {
+    display: none;
+  }
+
+  .startup .btnCommon {
+    justify-content: center;
+  }
+
+  .startup .startupCols .startupCols-cardCol .startupCols-cardBox img {
+    width: 52px;
+  }
+
+  .startup .startupCols .startupCols-cardCol {
+    padding: 0 9px;
+    text-align: center;
+  }
+
+  .startup .startupCols .startupCols-cardCol .startupCols-cardBox .title16 {
+    font-size: 10px;
+    line-height: 14px;
+  }
+
+  /* 
+    .startupTitle-card img {
+        width: 50px;
+    } */
+  .business-risk {
+    /* padding: 0; */
+  }
+
+  .getStarted-right {
+    padding: 24px;
+  }
+
+  .getStarted-right .btnCommon {
+    justify-content: center;
+  }
+
+  .homeBannerContainer img.homeBannerImg {
+    top: auto;
+    height: auto;
+    bottom: 0;
+  }
+
+  .mainMenu.navbar {
+    padding-top: 50px;
+  }
+
+  /*****/
+  .IndustryList .swiper-slide {
+    height: 100%;
+  }
+
+  .IndustryList .IndustryList-card {
+    padding: 30px;
+    background-color: var(--vt-c-blue);
+    height: 100%;
+  }
+
+  .IndustryList .IndustryList-card .IndustryList-cardTitle {
+    color: #fff !important;
+    font-weight: 400;
+  }
+
+  .IndustryList .IndustryList-card li a {
+    color: #fff !important;
+  }
+
+  .IndustryList-card-seeMore a {
+    text-decoration: underline;
+  }
+
+  .businessInsurance .commnHeading .title24 {
+    font-size: 15px;
+  }
+
+  .howDo .howDo-swiper {
+    height: 590px;
+
+  }
+
+  .howDo-sliderBox {
+    padding: 40px 30px;
+    min-height: 670px;
+  }
+
+  .howDo-sliderBox-btn {
+    position: absolute;
+    top: 50px;
+    right: 10px;
+  }
+
+  .IndustryList-card {
+    /* background: red; */
+    min-height: 460px;
+  }
+
+  .howDo-sliderBoxImg {
+    bottom: 5%;
+  }
+
+  .companyReview .swiper-button-next,
+  .companyReview .swiper-button-prev {
+    top: auto;
+    bottom: 8%;
+    position: relative;
+  }
+
+  body .companyReview .swiper-button-next {
+    left: 76%;
+    /* left: auto; */
+  }
+
+  body .companyReview .swiper-button-prev {
+    left: 20%;
+    /* right: auto; */
+    bottom: -21px;
+  }
+
+  .companyReview-card .companyReview-cardText,
+  .companyReview-card .companyReview-cardName,
+  .companyReview-card .companyReview-cardPosition {
+    font-size: 20px;
+
+  }
+
+  .popularQue {
+    padding-right: 40px;
+    padding-left: 40px;
+  }
+
+  .popularQue .swiper-pagination {
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .backedBest .backedBest-card {
+    min-height: 100px;
+  }
+
+  .footer {
+    padding: 60px 0 25px 0;
+  }
+
+  .footer-listMenu-list {
+    padding: 20px 0;
+    border: 0;
+  }
+
+  .footerLogo img {
+    width: 250px;
+  }
+
+  .getStarted {
+    height: 570px;
+  }
+
+  .RecentActivity-card .RecentActivity-cardTitle {
+    font-size: 24px;
+    font-size: 20px;
+  }
+
+  /***** blog page ============*/
+  .blogListCard-container {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 0;
+  }
+
+  .blogList .bg-yellowLight.blogListBg {
+    background-color: transparent;
+  }
+
+  .blogList .bg-yellowLight .container {
+    padding: 0;
+  }
+
+  .bloglistCategory .blog-swiper-button-prev,
+  .bloglistCategory .blog-swiper-button-next {
+    display: none;
+  }
+
+  .BlogList-card .BlogList-cardTitle {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+  .BlogList-card .BlogList-cardDate {
+    font-size: 8px;
+    line-height: 10px;
+  }
+
+  .BlogListCardBox .BlogList-cardTitle {
+    width: 100% !important;
+  }
+
+  .blogListHero {
+    height: 420px;
+    padding: 0 20px;
+  }
+
+  .blogListHero .title64 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .blogDetail .blogDetailHero .title64 {
+    font-size: 40px;
+    line-height: 44px;
+  }
+
+  .BlogDetailPageBody {
+    padding: 40px 0;
+  }
+
+  .blogDetailSubcribe input.text-white {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+
+  .blogDetailSubcribe {}
+
+  .blogQuote img {
+    top: -20px;
+    left: 20px;
+  }
+
+  .blogHelpful .title25 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+
+  .blogHelpful .btnCommon {
+    font-size: 20px;
+  }
+
+  body .BlogDetail-card .BlogList-card .BlogList-cardBox {
+    flex-direction: column !important;
+  }
+
+  body .BlogDetail-card .BlogList-card .BlogList-cardBox .BlogListCardBox {
+    height: 185px;
+  }
+
+  body .BlogDetail-card .BlogList-card .BlogList-cardTitle {
+    font-size: 24px;
+    line-height: 26px;
+  }
+
+  body .BlogDetail-card .BlogList-card .BlogList-cardDate {
+    font-size: 14px;
+  }
+
+  body .BlogDetail-card .BlogList-card .blogBy {
+    display: flex !important;
+    bottom: 10px;
+  }
+
+  body .BlogDetail-card .BlogList-card .blogBy.blogByBottom {
+    display: none !important;
+  }
+
+  .blogDetail-swiper-button-next,
+  .blogDetail-swiper-button-prev {
+    display: none;
+  }
+
+  .blogDetailSubcribe .blogDetailSubcribe-title {
+    line-height: 28px;
+  }
+
+  .blogDetailSubcribe .blogDetailSubcribe-descrp {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 25px;
+  }
+
+  .blogDetailSubcribe-bottom .input-group {
+    flex-direction: column;
+  }
+
+  .blogDetailSubcribe-bottom .input-group input {
+    border: 0;
+    width: 100%;
+    border: 1px solid #fff !important;
+  }
+
+  .blogDetailSubcribe-bottom .input-group button {
+    border: 0;
+    background-color: var(--vt-c-blue) !important;
+    justify-content: center;
+    margin-top: 16px;
+    width: 80%;
+    margin-left: 10% !important;
+  }
+
+  .blogDetailSubcribe-bottom {
+    margin-bottom: 80px;
+  }
+
+  .RecentActivity-yellow {
+    padding-top: 0;
+  }
+
+
+}
+
+@media only screen and (max-width: 350px) {
+  .mainMenu.navbar .nabbarStrip {
+    padding: 0 20px;
+  }
+}
